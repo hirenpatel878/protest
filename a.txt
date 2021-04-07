@@ -1,7 +1,2 @@
 Hello this is A File.
-vi a.txt:eq
-exit
-close
-clear
-
-
+just updated.
